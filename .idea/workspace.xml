@@ -28,10 +28,20 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kotoden/TGBOTKhalturin.git",
+    "accountId": "c677845f-1737-4fbb-9bed-e6f0fca587da"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2y6TovfDcr7AOkEI22w2y6hwUxh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +52,7 @@
     "Python.db.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,7 +81,7 @@
       <workItem from="1749154202503" duration="757000" />
       <workItem from="1749154980316" duration="32000" />
       <workItem from="1749155024374" duration="13000" />
-      <workItem from="1749155044194" duration="1399000" />
+      <workItem from="1749155044194" duration="2399000" />
     </task>
     <servers />
   </component>
